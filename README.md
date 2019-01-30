@@ -7,5 +7,8 @@ geographical location.
 
 Uses integer-based geohash codes
 
+ZIP code geo coordinates (ZCTA) are taken from US Census Bureau Gazetteer files:
+https://www.census.gov/geo/maps-data/data/gazetteer2018.html
+
 ### License
 MIT
