@@ -1,0 +1,15 @@
+name: "zipcode_geo"
+description: "ZIP code proximity search"
+author: "Kirill Pertsev <kika@kikap.com>"
+version: 1.0.1
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  geohash_int:
+    path: ../geohash_int
+  quiver:
+  build_runner:
+
+dev_dependencies:
+  benchmark_harness:
