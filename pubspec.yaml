@@ -7,9 +7,9 @@ environment:
 
 dependencies:
   geohash_int:
-    path: ../geohash_int
+    git:
+      url: https://github.com/kika/geohash_int
   quiver:
-  build_runner:
 
 dev_dependencies:
   benchmark_harness:
